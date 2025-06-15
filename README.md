@@ -5,6 +5,10 @@ This project analyzes logistics delivery data to uncover trends, performance met
 We used Python for data cleaning, SQL for querying metrics, and Power BI for building an interactive dashboard.
 
 ---
+## 📸 Dashboard Preview
+
+![Fleet Performance Dashboard](Fleet_Performance_Dashboard.png)
+
 
 ## 📌 Overview
 
