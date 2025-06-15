@@ -55,7 +55,7 @@ The goal was to build a dashboard that helps logistics managers track:
 
 - `Fleet_Management.ipynb` – Python cleaning notebook  
 - `fleet_dashboard_queries.sql` – SQL queries used in dashboard  
-- `fFreight.csv` – (if included) cleaned logistics dataset  
+- `fFreight.csv` – cleaned logistics dataset
 - `dashboard_preview.png` – Power BI screenshot  
 
 ---
