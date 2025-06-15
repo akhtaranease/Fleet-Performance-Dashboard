@@ -35,11 +35,6 @@ The goal was to build a dashboard that helps logistics managers track:
 
 ---
 
-## 📊 Dashboard Preview
-
-![Fleet Performance Dashboard](dashboard_preview.png)
-
----
 
 ## 💡 Sample Insights
 
